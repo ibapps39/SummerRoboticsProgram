@@ -4,7 +4,7 @@ A 6-week summer robotics program designed to introduce K-12 students to robotics
 
 ## Checkout:
 - [CppExamples/ArudinoNANO/ServoArm01](CppExamples/ArudinoNANO/ServoArm01) - Servo Arm with Nano
-- [CppExamples/ArudinoUNO/BlinkInoUNO](CppExamples/ArudinoUNO/BlinkInoUNO) - Blink with UNO
+- [CppExamples/ArduinoUNO/BlinkInoUNO](CppExamples/ArduinoUNO/BlinkInoUNO) - Blink with UNO
 
 ## Curriculum Structure
 
