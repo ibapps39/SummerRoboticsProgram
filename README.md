@@ -3,8 +3,8 @@
 A 6-week summer robotics program designed to introduce K-12 students to robotics, programming, and engineering concepts through hands-on projects. The curriculum is adaptable for different age groups with appropriate complexity adjustments.
 
 ## Checkout:
-- []() - 
-- []() -  
+- [CppExamples/ArudinoNANO/ServoArm01](CppExamples/ArudinoNANO/ServoArm01) - Servo Arm with Nano
+- [CppExamples/ArudinoUNO/BlinkInoUNO](CppExamples/ArudinoUNO/BlinkInoUNO) - Blink with UNO
 
 ## Curriculum Structure
 
