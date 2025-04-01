@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "author": "Ian Brown",
+    "editor": "wokwi",
+    "parts": [
+      {
+        "type": "wokwi-arduino-nano",
+        "id": "nano",
+        "top": 24.2,
+        "left": 22.5,
+        "rotate": 180,
+        "attrs": {}
+      },
+      {
+        "type": "wokwi-servo",
+        "id": "servo1",
+        "top": -193,
+        "left": -7.8,
+        "rotate": 270,
+        "attrs": {}
+      },
+      { "type": "wokwi-vcc", "id": "vcc1", "top": -85.64, "left": -105.6, "attrs": {} }
+    ],
+    "connections": [
+      [ "nano:GND.1", "servo1:GND", "black", [ "v0" ] ],
+      [ "nano:5V", "servo1:V+", "red", [ "v0" ] ],
+      [ "servo1:PWM", "nano:3", "green", [ "v0" ] ],
+      [ "vcc1:VCC", "servo1:V+", "red", [ "v0" ] ]
+    ],
+    "dependencies": {}
+  }

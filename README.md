@@ -2,6 +2,10 @@
 ## Program Overview
 A 6-week summer robotics program designed to introduce K-12 students to robotics, programming, and engineering concepts through hands-on projects. The curriculum is adaptable for different age groups with appropriate complexity adjustments.
 
+## Checkout:
+- []() - 
+- []() -  
+
 ## Curriculum Structure
 
 Week 1: Introduction to Robotics
